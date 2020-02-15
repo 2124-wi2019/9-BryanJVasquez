@@ -19,4 +19,4 @@ let blockText = document.getElementsByClassName('block-text');  //getting all th
 console.log(`The total number of block-text class in this document is: ${blockText.length}`); //(calling variable "blockText" with length method to get the total count)
 
 let b001 = document.getElementById('b001'); //getting the attribute value of the element b001
-console.log(`The element with the ID attribute value of b001 is: ${b001}`); //(calling variable "b001" to get its value)
+console.log(`The element with the ID attribute value of b001 is: ${b001}`); //(calling variable "b001" to get its value);
